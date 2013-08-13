@@ -1,4 +1,4 @@
 goal2goal
 =========
 
-Simple Football Game
+Simple Multiplayer Football Game
